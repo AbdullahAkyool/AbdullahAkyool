@@ -1,6 +1,6 @@
 #About Me :)
 
-😁 Hello. I am Abdullah. I am 24 years old. I am a Computer Programming student and a Game Developer.
+😁 Hi! I'm Abdullah. I am 24 years old. I am a Computer Programming student and a Game Developer.
 
 🚀 I have been working on Game Development with Unity for about 3 years. I have developed many projects. I completed my internship at a game company. Then, I worked as a Junior Game Developer at a company that develops simulation games.
 
