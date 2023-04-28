@@ -1,5 +1,4 @@
-# Abdullah-Akyol
-About Me :)
+#About Me :)
 
 😁 Hello. I am Abdullah. I am 24 years old. I am a Computer Programming student and a Game Developer.
 
